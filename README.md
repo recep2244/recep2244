@@ -67,6 +67,14 @@ pipelines, including collaborations with InstaDeep and BioNTech.
 
 ---
 
+## Current Repositories
+
+- https://github.com/recep2244/House_Price_Prediction - California housing regression baseline with feature engineering and XGBoost.
+- https://github.com/recep2244/titanic-survival-prediction - Titanic survival classification with engineered features and model comparison.
+- https://github.com/recep2244/predict_nvda - NVDA price prediction baseline with market features and time-aware validation.
+
+---
+
 ## Career Summary
 
 - Postdoc - University of Reading (McGuffin Group)
