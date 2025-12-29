@@ -1,7 +1,7 @@
 # Hi, I'm Dr. Recep Adiyaman
 
 **Computational Structural Biologist | Protein Design | Machine Learning for Biology**  
-Coventry, UK  
+London, UK  
 Email: [recepadiyaman2244@gmail.com](mailto:recepadiyaman2244@gmail.com)  
 Portfolio: https://recep2244.github.io/portfolio/  
 LinkedIn: https://www.linkedin.com/in/recep-ad%C4%B1yaman/
