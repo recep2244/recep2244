@@ -60,18 +60,18 @@ pipelines, including collaborations with InstaDeep and BioNTech.
 
 ## Repositories (Coming Soon)
 
-- https://github.com/recep2244/multifold - AF3-based quaternary structure modeling
-- https://github.com/recep2244/funfold - Ligand binding prediction and function annotation
-- https://github.com/recep2244/refold - Protein refinement via MD simulations
-- https://github.com/recep2244/modfolddock2q - Interface quality scoring engine
+- [multifold](https://github.com/recep2244/multifold): AF3-based quaternary structure modeling
+- [funfold](https://github.com/recep2244/funfold): Ligand binding prediction and function annotation
+- [refold](https://github.com/recep2244/refold): Protein refinement via MD simulations
+- [modfolddock2q](https://github.com/recep2244/modfolddock2q): Interface quality scoring engine
 
 ---
 
 ## Current Repositories
 
-- https://github.com/recep2244/House_Price_Prediction - California housing regression baseline with feature engineering and XGBoost.
-- https://github.com/recep2244/titanic-survival-prediction - Titanic survival classification with engineered features and model comparison.
-- https://github.com/recep2244/predict_nvda - NVDA price prediction baseline with market features and time-aware validation.
+- [House_Price_Prediction](https://github.com/recep2244/House_Price_Prediction): California housing regression baseline with feature engineering and XGBoost.
+- [titanic-survival-prediction](https://github.com/recep2244/titanic-survival-prediction): Titanic survival classification with engineered features and model comparison.
+- [predict_nvda](https://github.com/recep2244/predict_nvda): NVDA price prediction baseline with market features and time-aware validation.
 
 ---
 
