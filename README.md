@@ -12,8 +12,7 @@ LinkedIn: https://www.linkedin.com/in/recep-ad%C4%B1yaman/
 
 I am a structural bioinformatician with deep expertise in protein structure prediction,
 protein-ligand interaction modeling, immune repertoire modeling, and model quality
-assessment. My work has been benchmarked in blind assessments such as CASP, CAMEO,
-and BioCreative, and has contributed to tools used in both academic and industry
+assessment. My work has been benchmarked in blind assessments such as CASP,and CAMEO,and has contributed to tools used in both academic and industry
 pipelines, including collaborations with InstaDeep and BioNTech.
 
 ---
